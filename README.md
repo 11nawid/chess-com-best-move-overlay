@@ -23,7 +23,7 @@ A Tampermonkey userscript that shows the Stockfish engine's best move live on Ch
 ## Installation
 
 1. Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension
-2. Click **[Install Script](https://github.com/YOUR_USERNAME/chess-com-best-move-overlay/raw/main/chess-overlay.user.js)** *(update this link after upload)*
+2. Click **[Install Script](https://github.com/11nawid/chess-com-best-move-overlay/raw/main/chess-overlay.user.js)** *(update this link after upload)*
 3. Confirm the install in Tampermonkey
 4. Open any game on [Chess.com](https://www.chess.com) — the panel appears automatically
 
@@ -50,8 +50,7 @@ The script polls the board every 120ms. When the FEN changes (a move is played),
 
 ## Screenshots
 
-*(Add your own screenshots here)*
-
+> ![Preview](preview.png)
 ---
 
 ## Configuration
